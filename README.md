@@ -1,7 +1,7 @@
-# Halo Semua 👋
-Perkenalkan nama saya I Made Cakra Pustaka.  
-Saya seorang mahasiswa dari Universitas Udayana.  
-Sedang mengikuti kegiatan MSIB Batch 5 di Dicoding.  
+# Hi everyone 👋
+Call me Cakra. I do backend work, mostly with Go and TypeScript. I build APIs, task queues, 
+and systems that need to stay reliable. Can do full stack when the project calls for it.
+Still learning a lot about system design and how to write code that scales gracefully.
 
 <p align="left">
 <a href="https://github.com/Cakra17">
